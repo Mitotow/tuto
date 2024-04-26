@@ -1,0 +1,19 @@
+{
+  "name": "simple_project",
+  "version": "1.0.0",
+  "description": "A simple nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tchoup7790/tuto.git"
+  },
+  "author": "Mitotow <thomas@ambroise.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tchoup7790/tuto/issues"
+  },
+  "homepage": "https://github.com/Tchoup7790/tuto#readme"
+}
